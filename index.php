@@ -61,13 +61,8 @@
     <p class="text-center">
         <span>Lenght of the paragraph: </span>
         <?php
-            echo strlen($paragraph);
+            echo strlen($newParagraph);
         ?>
-    </p>
-
-
-    <p>
-        
     </p>
 
 </body>
